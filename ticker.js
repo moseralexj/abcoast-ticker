@@ -1,6 +1,6 @@
 // ticker.js
 window.ABCOAST_TICKER = [
-  "Alex in MNL until March 31.",
-  "Remember to wear high-visibility vests on the ramp.",
+  "Inbound Coordination Trial ongoing from June 1st to July 8th.",
+  "First Fifa Game on June 13th - Australia vs. Turkey",
   "Welcome to ABCOAST Aviation Services."
 ];
