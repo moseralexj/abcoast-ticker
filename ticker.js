@@ -1,6 +1,6 @@
 // ticker.js
 window.ABCOAST_TICKER = [
-  "Inbound Coordination Trial ongoing from June 1st to July 8th.",
-  "First Fifa Game on June 13th - Australia vs. Turkey",
+  "Welcome Iain from the UK!",
+  "New tail-to-tail bags being processed for this quarter.",
   "Welcome to ABCOAST Aviation Services."
 ];
